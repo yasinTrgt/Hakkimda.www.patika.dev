@@ -1,1 +1,1 @@
-# Hakkimda.www.patika.dev
+# Hakkimda
